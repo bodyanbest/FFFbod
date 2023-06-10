@@ -1,0 +1,36 @@
+C:\Users\ANDRE\Desktop\ITVDN Async course\C# Асинхронное программирование(Матер-ли)\CAD of Railcar Repair Enterprise Projects\SAPR\obj\Debug\SAPR.csproj.AssemblyReference.cache
+C:\Users\ANDRE\Desktop\ITVDN Async course\C# Асинхронное программирование(Матер-ли)\CAD of Railcar Repair Enterprise Projects\SAPR\obj\Debug\SAPR.csproj.SuggestedBindingRedirects.cache
+C:\Users\ANDRE\Desktop\ITVDN Async course\C# Асинхронное программирование(Матер-ли)\CAD of Railcar Repair Enterprise Projects\SAPR\obj\Debug\SAPR.Forns.RepairWagons_Form.resources
+C:\Users\ANDRE\Desktop\ITVDN Async course\C# Асинхронное программирование(Матер-ли)\CAD of Railcar Repair Enterprise Projects\SAPR\obj\Debug\SAPR.MainForm.resources
+C:\Users\ANDRE\Desktop\ITVDN Async course\C# Асинхронное программирование(Матер-ли)\CAD of Railcar Repair Enterprise Projects\SAPR\obj\Debug\SAPR.Properties.Resources.resources
+C:\Users\ANDRE\Desktop\ITVDN Async course\C# Асинхронное программирование(Матер-ли)\CAD of Railcar Repair Enterprise Projects\SAPR\obj\Debug\SAPR.csproj.GenerateResource.cache
+C:\Users\ANDRE\Desktop\ITVDN Async course\C# Асинхронное программирование(Матер-ли)\CAD of Railcar Repair Enterprise Projects\SAPR\obj\Debug\SAPR.csproj.CoreCompileInputs.cache
+C:\Users\ANDRE\Desktop\ITVDN Async course\C# Асинхронное программирование(Матер-ли)\CAD of Railcar Repair Enterprise Projects\SAPR\bin\Debug\SAPR.exe.config
+C:\Users\ANDRE\Desktop\ITVDN Async course\C# Асинхронное программирование(Матер-ли)\CAD of Railcar Repair Enterprise Projects\SAPR\bin\Debug\SAPR.exe
+C:\Users\ANDRE\Desktop\ITVDN Async course\C# Асинхронное программирование(Матер-ли)\CAD of Railcar Repair Enterprise Projects\SAPR\bin\Debug\SAPR.pdb
+C:\Users\ANDRE\Desktop\ITVDN Async course\C# Асинхронное программирование(Матер-ли)\CAD of Railcar Repair Enterprise Projects\SAPR\obj\Debug\SAPR.exe
+C:\Users\ANDRE\Desktop\ITVDN Async course\C# Асинхронное программирование(Матер-ли)\CAD of Railcar Repair Enterprise Projects\SAPR\obj\Debug\SAPR.pdb
+W:\Downloads\Telegram Desktop\CAD of Railcar Repair Enterprise Projects (4)\SAPR\bin\Debug\SAPR.exe.config
+W:\Downloads\Telegram Desktop\CAD of Railcar Repair Enterprise Projects (4)\SAPR\bin\Debug\SAPR.exe
+W:\Downloads\Telegram Desktop\CAD of Railcar Repair Enterprise Projects (4)\SAPR\bin\Debug\SAPR.pdb
+W:\Downloads\Telegram Desktop\CAD of Railcar Repair Enterprise Projects (4)\SAPR\obj\Debug\SAPR.csproj.AssemblyReference.cache
+W:\Downloads\Telegram Desktop\CAD of Railcar Repair Enterprise Projects (4)\SAPR\obj\Debug\SAPR.csproj.SuggestedBindingRedirects.cache
+W:\Downloads\Telegram Desktop\CAD of Railcar Repair Enterprise Projects (4)\SAPR\obj\Debug\SAPR.Forns.RepairWagons_Form.resources
+W:\Downloads\Telegram Desktop\CAD of Railcar Repair Enterprise Projects (4)\SAPR\obj\Debug\SAPR.MainForm.resources
+W:\Downloads\Telegram Desktop\CAD of Railcar Repair Enterprise Projects (4)\SAPR\obj\Debug\SAPR.Properties.Resources.resources
+W:\Downloads\Telegram Desktop\CAD of Railcar Repair Enterprise Projects (4)\SAPR\obj\Debug\SAPR.csproj.GenerateResource.cache
+W:\Downloads\Telegram Desktop\CAD of Railcar Repair Enterprise Projects (4)\SAPR\obj\Debug\SAPR.csproj.CoreCompileInputs.cache
+W:\Downloads\Telegram Desktop\CAD of Railcar Repair Enterprise Projects (4)\SAPR\obj\Debug\SAPR.exe
+W:\Downloads\Telegram Desktop\CAD of Railcar Repair Enterprise Projects (4)\SAPR\obj\Debug\SAPR.pdb
+W:\Проекты\Программирование\C#\WindowsForms\Работа\CAD of Railcar Repair Enterprise Projects (4)\SAPR\bin\Debug\SAPR.exe.config
+W:\Проекты\Программирование\C#\WindowsForms\Работа\CAD of Railcar Repair Enterprise Projects (4)\SAPR\bin\Debug\SAPR.exe
+W:\Проекты\Программирование\C#\WindowsForms\Работа\CAD of Railcar Repair Enterprise Projects (4)\SAPR\bin\Debug\SAPR.pdb
+W:\Проекты\Программирование\C#\WindowsForms\Работа\CAD of Railcar Repair Enterprise Projects (4)\SAPR\obj\Debug\SAPR.csproj.AssemblyReference.cache
+W:\Проекты\Программирование\C#\WindowsForms\Работа\CAD of Railcar Repair Enterprise Projects (4)\SAPR\obj\Debug\SAPR.csproj.SuggestedBindingRedirects.cache
+W:\Проекты\Программирование\C#\WindowsForms\Работа\CAD of Railcar Repair Enterprise Projects (4)\SAPR\obj\Debug\SAPR.MainForm.resources
+W:\Проекты\Программирование\C#\WindowsForms\Работа\CAD of Railcar Repair Enterprise Projects (4)\SAPR\obj\Debug\SAPR.Properties.Resources.resources
+W:\Проекты\Программирование\C#\WindowsForms\Работа\CAD of Railcar Repair Enterprise Projects (4)\SAPR\obj\Debug\SAPR.csproj.GenerateResource.cache
+W:\Проекты\Программирование\C#\WindowsForms\Работа\CAD of Railcar Repair Enterprise Projects (4)\SAPR\obj\Debug\SAPR.csproj.CoreCompileInputs.cache
+W:\Проекты\Программирование\C#\WindowsForms\Работа\CAD of Railcar Repair Enterprise Projects (4)\SAPR\obj\Debug\SAPR.exe
+W:\Проекты\Программирование\C#\WindowsForms\Работа\CAD of Railcar Repair Enterprise Projects (4)\SAPR\obj\Debug\SAPR.pdb
+W:\Проекты\Программирование\C#\WindowsForms\Работа\CAD of Railcar Repair Enterprise Projects (4)\SAPR\obj\Debug\SAPR.Forms.RepairWagons_Form.resources
